@@ -11,16 +11,17 @@ This repository contains the implementation of various **Data Structures and Alg
     - Queues
     - HashMaps
   - [Non-Linear Data Structures](#non-linear-data-structures)
-    - Binary Search Tree
-    - AVL Tree
+    - Trees
     - Graphs
-    - Heaps
-    - Tries
 - [Algorithms](#algorithms)
   - Sorting Algorithms
   - Searching Algorithms
   - Hashing
-
+- [Exercises and Problems](#exercises-and-problems)
+  - Linked List Problems
+  - HashMap Problems
+  - Tree Problems
+  - Graph Algorithms
 
 ## Data Structures
 
