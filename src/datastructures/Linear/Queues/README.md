@@ -1,4 +1,4 @@
-# Queue Module
+# Queue
 
 This module provides various implementations and utilities for queue data structures.
 Classes Overview
